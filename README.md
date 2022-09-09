@@ -2,7 +2,7 @@
 
 - 🔭 Hoje sou estudante FullStack na Kenzie Academy...
 - 🌱 Ha pouco tempo finalizei os estudos de FrontEnd, estou bem empolgado para iniciar os estudos em BackEnd.
-- 😄 Pronouns: ele/dele.
+- 😄 Pronomes: ele/dele.
 
 <div align="center">
   <a href="https://github.com/mathgomes064">
