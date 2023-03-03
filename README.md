@@ -1,6 +1,6 @@
 ### Olá, eu sou Matheus Alves Gomes - mathgomes064 👋
 
-- 🔭 Hoje sou Desenvolvedorm Full Stack.
+- 🔭 Hoje sou Desenvolvedor Full Stack.
 - 😄 Pronomes: ele/dele.
 
 <!-- <div align="center">
