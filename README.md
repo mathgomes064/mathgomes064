@@ -1,7 +1,7 @@
 ### Olá, eu sou Matheus Alves Gomes - mathgomes064 👋
 
 - 🔭 Hoje sou Desenvolvedor Full Stack.
-- 😄 Pronomes: ele/dele.
+- Me dedico integralmente à área de Análise e Desenvolvimento de Sistemas. 💻 Com fluência em inglês e sólida experiência em projetos Front-End e Back-End, estou sempre em busca de novas oportunidades para expandir meu conhecimento e habilidades na área de Desenvolvimento Web. 🌐
 
 <div align="center">
   <a href="https://github.com/mathgomes064">
